@@ -3,7 +3,7 @@
 Steps to run this project
 
 ## Clone:
-git clone https://github.com/its-me-aadi/React-to-dolist.git
+git clone https://github.com/its-me-aadi/Keeper-App.git
 
 ## Go to project folder
 cd to-dolist
